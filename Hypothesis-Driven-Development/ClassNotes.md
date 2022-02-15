@@ -3,7 +3,7 @@
 ## Week 1 - How do we know if we're building for a user that doesn't exist?
 "_How do you go from backlog grooming to blockbuster results with agile? Hypothesis-driven decisions. Specifically, you need to shift your teammates focus from their natural tendency to focus on their own output to focusing out user outcomes. Easier said than done, but getting everyone excited about results of an experiment is one of the most reliable ways to get there. This week, we’ll focus on how you get started in a practical way._"
 
-### Week 1 - Introduction
+### Week 1: Introduction
 
 __The Persona Hypothesis__    
 0:00 - 0:08
@@ -36,7 +36,7 @@ __The Functional Hypothesis__
 
 
 
-### Week 1 - Identifying & Testing Persona & Problem Hypothesis
+### Week 1: Identifying & Testing Persona & Problem Hypothesis
 
 __Example Personas and Problem Scenarios__    
 0:38 - 0:48
@@ -73,7 +73,7 @@ __Conducting the Interview__
 
 
 
-### Week 1 - Intro to Design Sprints
+### Week 1: Intro to Design Sprints
 
 __You and Your Next Design Sprint__
 0:00 - 0:09
@@ -309,7 +309,7 @@ __Interview: Laura Klein on the Right Kind of Research__
 
 
 
-## Week 3: How do we consistently deliver great usability?
+## Week 3 - How do we consistently deliver great usability?
 
 "_The best products are tested for usability early and often, avoiding the destructive stress and uncertainty of a "big unveil." In this module, you’ll learn how to diagnose, design and execute phase-appropriate user testing. The tools you’ll learn to use here (a test plan template, prototyping tool, and test session infrastructure) are accessible/teachable to anyone on your team. And that’s a very good thing -- often products are released with poor usability because there "wasn’t enough time" to test it. With these techniques, you’ll be able to test early and often, reinforcing your culture of experimentation._
 
@@ -426,7 +426,7 @@ __Fixing the Behavioral Layer: The Importance of Comparables & Prototyping__
 - Prepare a couple of prototypes that take different approaches to addressing the user story, and be prepared to discard one or both.
 
 
-### Week 3: How do you test Usability?
+### Week 3 - How do you test Usability?
 
 __Usability Testing: Fun & Affordable__   
 0:09 - 1:04
@@ -492,7 +492,7 @@ __Interview: Laura Klein on Qualitative vs. Quantitative Research__
 
 "_You’ve learned how to test ideas and usability to reduce the amount of software your team needs to build and to focus its execution. Now you’re going to learn how high-functioning teams approach testing of the software itself. The practice of continuous delivery and the closely related Devops movement are changing the way we build and release software. It wasn’t that long ago where 2-3 releases a year was considered standard. Now, Amazon, for example, releases code every 11.6 seconds. This week, we’ll look at the delivery pipeline and step through what successful practitioners do at each stage and how you can diagnose and apply the practices that will improve your implementation of agile._"
 
-### Week 4: Identifying & Structuring a Functional Hypothesis
+### Week 4 - Identifying & Structuring a Functional Hypothesis
 
 __The Team that Releases Together__   
 0:00 - 0:17
@@ -537,7 +537,7 @@ __Anders Wallgren on Getting Started__
 - _How do you figure out where to start investing time, infrastructure changes, process improvements, whatever is going to work?_
 
 
-### Week 4: What kind of tests can I run?
+### Week 4 - What kind of tests can I run?
 
 __The Test Pyramid__    
 0:10 - 0:27
@@ -675,7 +675,7 @@ __Chris Kent on Continuous Deployment__
 - _we would sit down right there at the beginning of the sprint and say, all right, which of these stories has user facing impact? Which ones would they actually notice a change? For any of those stories that had a noticeable change, we gave it what we call The Scarlet Letter, so with big red marker, and we wrote an A on the ticket with a big circle around it and that to us meant it had to go through our acceptance test-driven development process, which meant that we would have that meeting with the test engineer, developer and whoever we could drag in to be a business stakeholder to define out those tests and from there, one or two things would happen, either the test would be written before the development efforts started, that's the ideal, or at the very least they'd be written in parallel with the development effort. So now not only do we have documentation in the form of tests, we also have a definition of done for the work that's being done, the coding that the developer has to do, as soon as that is acceptance tests passed, assuming you've done your due diligence in defining what scenarios are, as soon as that passes, your work is done, your feature is complete._
 
 
-### Week 4: How do you create a working environment that's friendly for continuous delivery?
+### Week 4 - How do you create a working environment that's friendly for continuous delivery?
 
 __Test-Driven General Management__    
 0:01 - 0:18
