@@ -1,2 +1,13 @@
 # AgileDevelopment-UnivVa
 Notes and assignments from Agile Development Specialization - University Of Virginia - Darden School of Business
+
+1. __Agile Meets Design Thinking__ - ___complete___
+    - "Despite everyone's good intentions, hard work and solid ideas, too many teams end up creating products that no one wants, no one can use, and no one buys. But it doesn't have to be this way. Agile and design thinking offer a different--and effective--approach to product development, one that results in valuable solutions to meaningful problems. In this course, you’ll learn how to determine what's valuable to a user early in the process--to frontload value--by focusing your team on testable narratives about the user and creating a strong shared perspective. "
+2. __Hypothesis-Driven Development__ - ___complete___
+    - "To deliver agile outcomes, you have to do more than implement agile processes- you have to create focus around what matters to your user and constantly test your ideas. This is easier said than done, but most of today’s high-functioning innovators have a strong culture of experimentation.
+   - "In this course, you’ll learn how to identify the right questions at the right time, and pair them with the right methods to do just enough testing to make sure you minimize waste and maximize the outcomes you create with your user."
+3. Agile Analytics
+    - "Few capabilities focus agile like a strong analytics program. Such a program determines where a team should focus from one agile iteration (sprint) to the next. Successful analytics are rarely hard to understand and are often startling in their clarity. In this course, developed at the Darden School of Business at the University of Virginia, you'll learn how to build a strong analytics infrastructure for your team, integrating it with the core of your drive to value."
+4. Managing an Agile Team
+    - "While agile has become the de facto standard for managing digital innovation teams, many wonder if they’re doing it ‘right’. Twitter is full of jokes about how teams say they do agile but don’t ‘really’ do it. The reality is that getting the most out of agile is less about observing specific procedures and more about how a team focuses and measures their progress. 
+    - "Rather than just boring you with an accounting of agile methodologies, this course focuses on helping you better charter your team’s focus, definition of success, and practice of agile. While learning about agile mainstays like Scrum, XP, and kanban, you’ll also learn to help your team ask the right questions about how they’re working and facilitate good answers on how agile can help. "   
