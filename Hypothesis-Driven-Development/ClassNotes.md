@@ -659,7 +659,6 @@ Infrastructure as Code tools:
 -	Containers - Containers, like Docker, abstract away an individual unit of your application from the underlying physical host and operating system so that it can run on a developer's laptop, a test system, or a production system in essentially the same way. A container decouples an application and its behavior from the underlying hardware and operating system. So, all the elements/stuff that's going to have the variation is placed into this container so that that's more consistent across those different environments.
 
 
-
 __Anders Wallgren on Deployment__   
 1:32 - 1:43
 - _Yeah, I mean, I think the same kind of reason why continuous integration is very valuable to teams' continuous delivery in all the disciplines that you have to build around it can be very valuable too._
@@ -675,6 +674,8 @@ __Chris Kent on Continuous Deployment__
 6:24 - 7:38
 - _we would sit down right there at the beginning of the sprint and say, all right, which of these stories has user facing impact? Which ones would they actually notice a change? For any of those stories that had a noticeable change, we gave it what we call The Scarlet Letter, so with big red marker, and we wrote an A on the ticket with a big circle around it and that to us meant it had to go through our acceptance test-driven development process, which meant that we would have that meeting with the test engineer, developer and whoever we could drag in to be a business stakeholder to define out those tests and from there, one or two things would happen, either the test would be written before the development efforts started, that's the ideal, or at the very least they'd be written in parallel with the development effort. So now not only do we have documentation in the form of tests, we also have a definition of done for the work that's being done, the coding that the developer has to do, as soon as that is acceptance tests passed, assuming you've done your due diligence in defining what scenarios are, as soon as that passes, your work is done, your feature is complete._
 
+
+### Week 4: How do you create a working environment that's friendly for continuous delivery?
 
 __Test-Driven General Management__    
 0:01 - 0:18
