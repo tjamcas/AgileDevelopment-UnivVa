@@ -428,72 +428,76 @@ __Fixing the Behavioral Layer: The Importance of Comparables & Prototyping__
 
 ### Week 3: How do you test Usability?
 
-Usability Testing: Fun & Affordable
+__Usability Testing: Fun & Affordable__   
 0:09 - 1:04
-Well, first and foremost, we need to make sure that we've rendered it into a nice, strong user story with a high-quality, third clause. That's the most important thing and one of the most critical habits for you to develop if you want to use hypothesis-driven development on the regular habitual basis that makes it really effective. From there, we need to make sure that we're isolating usability, and we're only testing it, we're not testing motivation at the same time, and that's important because we looked at how to use techniques from Lean Startup to structure and test a demand or a value hypothesis, and now we're going to use some very different methods to test usability. If you try to co-mingle these, what you're going to get is an inconclusive test that at best is unusable and at worst gives you some false conclusions about what's going on.
-How to test a usability hypothesis: 
--	Make sure that you've created a strong user story with a high-quality, third clause. That's the most important thing and one of the most critical habits for you to develop if you want to use hypothesis-driven development on a regular habitual basis that is really effective. 
--	Make sure that we're isolating usability, and we're only testing it, do not test motivation at the same time. That's important because we looked at how to use techniques from Lean Startup to structure and test a demand or a value hypothesis, and now we're going to use some very different methods to test usability. If you try to co-mingle these, the resulting test will give you results that at best are unusable, and at worst will provide you with false conclusions about what you are observing. Don't test motivation and usability at the same time.
+- _Well, first and foremost, we need to make sure that we've rendered it into a nice, strong user story with a high-quality, third clause. That's the most important thing and one of the most critical habits for you to develop if you want to use hypothesis-driven development on the regular habitual basis that makes it really effective. From there, we need to make sure that we're isolating usability, and we're only testing it, we're not testing motivation at the same time, and that's important because we looked at how to use techniques from Lean Startup to structure and test a demand or a value hypothesis, and now we're going to use some very different methods to test usability. If you try to co-mingle these, what you're going to get is an inconclusive test that at best is unusable and at worst gives you some false conclusions about what's going on._
+- How to test a usability hypothesis: 
+  -	Make sure that you've created a strong user story with a high-quality, third clause. That's the most important thing and one of the most critical habits for you to develop if you want to use hypothesis-driven development on a regular habitual basis that is really effective. 
+  -	Make sure that we're isolating usability, and we're only testing it, do not test motivation at the same time. That's important because we looked at how to use techniques from Lean Startup to structure and test a demand or a value hypothesis, and now we're going to use some very different methods to test usability. If you try to co-mingle these, the resulting test will give you results that at best are unusable, and at worst will provide you with false conclusions about what you are observing. Don't test motivation and usability at the same time.
 
 
-The Right Testing at the Right Time
+__The Right Testing at the Right Time__   
 1:32 - 2:12
-Exploratory testing, we're investigating approaches, big different interface patterns, maybe likely with parallel prototypes. Assessment testing, we found one of those and we're just detailing and out looking at a few of the different cases and patterns if we're going to do this. Validation testing, we think we're fine and we're just validating that the software is really okay, and here we might time the user, pick up some metrics that we can look at and compare with our field metrics. All right. So the key thing is it's okay to be relatively informal, use rough prototypes, and if you can write a good user story, you can do this exploratory and assessment testing.
-Test the usability hypothesis by beginning early and moving through these different test phases: 
--	Exploratory (approach will fundamentally work): We're investigating approaches using parallel prototypes that have big and contrasting interface patterns. 
--	Assessment (the implementation is sound and ready for tuning): We selected one of the approaches from the exploratory phase and are getting into the detail of the interface and pattern with a few different use cases 
--	Validation (ready for prime time): we're validating that the software is okay and we're creating some baseline metrics (e.g. based on user timing observation) that we can extend into field testing.
+- _Exploratory testing, we're investigating approaches, big different interface patterns, maybe likely with parallel prototypes. Assessment testing, we found one of those and we're just detailing and out looking at a few of the different cases and patterns if we're going to do this. Validation testing, we think we're fine and we're just validating that the software is really okay, and here we might time the user, pick up some metrics that we can look at and compare with our field metrics. All right. So the key thing is it's okay to be relatively informal, use rough prototypes, and if you can write a good user story, you can do this exploratory and assessment testing._
+- Test the usability hypothesis by beginning early and moving through these different test phases: 
+  -	Exploratory (approach will fundamentally work): We're investigating approaches using parallel prototypes that have big and contrasting interface patterns. 
+  -	Assessment (the implementation is sound and ready for tuning): We selected one of the approaches from the exploratory phase and are getting into the detail of the interface and pattern with a few different use cases 
+  -	Validation (ready for prime time): we're validating that the software is okay and we're creating some baseline metrics (e.g. based on user timing observation) that we can extend into field testing.
 
 
-A Test Plan Anyone Can Use
+__A Test Plan Anyone Can Use__    
 0:07 - 0:18
-There's this test plan here, this is roughly what it looks like, and there is a reference in the course resources to both a template and a tutorial that deals with all the details.
-During exploratory and assessment testing, revise your your test plan, user stories, and prototypes as you go. Set aside time between test sessions for revisions. 
-
-Sections in the test plan template: 
-- Objectives and methods: clarifies the phase of testing (e.g., exploratory, validation) 
-- Product version: whether live or prototype with links to the software. 
-- Subjects: users who participated in test who passed the persona screener question(s). 
-- Research composition: agenda for testing - especially important if you are testing multiple things. 
-- Pre-session checklist: Dry run the test plan and check that the prototype is working as planned. 
-- Session design: Do not lead or "cue" the user. Ask them to perform tasks as to whether signifiers make sense and are intuitive. As you iteratively conduct tests, revise your test plan, user stories, and prototypes based on what you learn.
-
-
-Resource: Usability test plan: https://www.alexandercowan.com/usability-test-plan/
+- _There's this test plan here, this is roughly what it looks like, and there is a reference in the course resources to both a template and a tutorial that deals with all the details._
+- During exploratory and assessment testing, revise your your test plan, user stories, and prototypes as you go. Set aside time between test sessions for revisions. 
+- Sections in the test plan template: 
+  - Objectives and methods: clarifies the phase of testing (e.g., exploratory, validation) 
+  - Product version: whether live or prototype with links to the software. 
+  - Subjects: users who participated in test who passed the persona screener question(s). 
+  - Research composition: agenda for testing - especially important if you are testing multiple things. 
+  - Pre-session checklist: Dry run the test plan and check that the prototype is working as planned. 
+  - Session design: Do not lead or "cue" the user. Ask them to perform tasks as to whether signifiers make sense and are intuitive. As you iteratively conduct tests, revise your test plan, user stories, and prototypes based on what you learn.
+__Resource__: Usability test plan: <https://www.alexandercowan.com/usability-test-plan/>
 
 
-Creating Good Test Items
+__Creating Good Test Items__    
 0:00 - 0:17
-We're going to really dial in some detail at the heart of this test plan. Let's really analyze one of these specific examples, so you can think through how you're going to create your individual test items, and relate that to the seven steps model and really disciplined approach to assessing usability.
-Mapping Norman's 7 Steps to Usability testing: 
--	Plan: Testers supply the motivation for the subjects and tell the users what they want to do (e.g., perform search) 
--	Specify: Testers ask subjects how they would do an action when presented with a prototype (could be a paper cheater). Do the prototype signifiers direct them to their goal? yes or no. 
--	Perform: Were the users able to achieve this and did the interface work as intended? 
--	Perceive: Testers give or the prototype directs the users to the response page. Is it clear to the users that a response has been presented? 
--	Interpret: Do subjects understand the results that have been presented to them?
+- _We're going to really dial in some detail at the heart of this test plan. Let's really analyze one of these specific examples, so you can think through how you're going to create your individual test items, and relate that to the seven steps model and really disciplined approach to assessing usability._
+- Mapping Norman's 7 Steps to Usability testing: 
+  -	Plan: Testers supply the motivation for the subjects and tell the users what they want to do (e.g., perform search) 
+  -	Specify: Testers ask subjects how they would do an action when presented with a prototype (could be a paper cheater). Do the prototype signifiers direct them to their goal? yes or no. 
+  -	Perform: Were the users able to achieve this and did the interface work as intended? 
+  -	Perceive: Testers give or the prototype directs the users to the response page. Is it clear to the users that a response has been presented? 
+  -	Interpret: Do subjects understand the results that have been presented to them?
 
 
-Running a Usability Design Sprint
+__Running a Usability Design Sprint__   
 0:00 - 0:05
-How might you use a design sprint to test usability?
-Assuming a five day design sprint: 
-Inputs prepared ahead of sprint: a usability hypothesis in the form of rough user stories, a clear view of what you want to have happen (sprint agenda and checklist), test subjects, a clear view of the outputs (the test results) and what you're going to do with those. 
-•	Day one: iterate on the user stories and develop wireframe/prototypes 
-•	Days two, three, four: perform tests, review immediate results, and iterate between tests 
-•	Day five: review test results and what you learned, what you will do next (develop, test), determine metrics to be used in further testing and in the field.
+- _How might you use a design sprint to test usability?_
+- Assuming a five day design sprint: 
+  - Inputs prepared ahead of sprint: a usability hypothesis in the form of rough user stories, a clear view of what you want to have happen (sprint agenda and checklist), test subjects, a clear view of the outputs (the test results) and what you're going to do with those. 
+  - Day one: iterate on the user stories and develop wireframe/prototypes 
+  -	Days two, three, four: perform tests, review immediate results, and iterate between tests 
+  -	Day five: review test results and what you learned, what you will do next (develop, test), determine metrics to be used in further testing and in the field.
 
 
-Interview: Laura Klein on Qualitative vs. Quantitative Research
+__Interview: Laura Klein on Qualitative vs. Quantitative Research__   
 0:06 - 0:21
-It's a lot of work to get started and figure out what you should do when. Can you talk a little bit about some of the distinctions you make between triggers that tell you right now, you need qualitative research versus right now, you need quantitative research?
-•	Quantitative metrics, numbers, analytics tell you what is going on with your product. If you want to learn about your product and what is going on with it and how people are using it, what they're doing with it, use quantitative research. Use quantitative research to understand whether a product change resulted in the behavior change that the hypothesis predicted. 
-•	Qualitative research is talking to people and observing their behavior. It tells you why those things are happening. If you want to understand your user, their context, why they're doing the things they're doing, why they're making the choices they're making, use qualitative research. Use qualitative research to generate hypotheses.
+- _It's a lot of work to get started and figure out what you should do when. Can you talk a little bit about some of the distinctions you make between triggers that tell you right now, you need qualitative research versus right now, you need quantitative research?_
+- Quantitative metrics, numbers, analytics tell you what is going on with your product. If you want to learn about your product and what is going on with it and how people are using it, what they're doing with it, use quantitative research. Use quantitative research to understand whether a product change resulted in the behavior change that the hypothesis predicted. 
+- Qualitative research is talking to people and observing their behavior. It tells you why those things are happening. If you want to understand your user, their context, why they're doing the things they're doing, why they're making the choices they're making, use qualitative research. Use qualitative research to generate hypotheses.
 
 
-The Team that Releases Together
+
+## Week 4: How do We Invest to Move Fast?
+
+"_You’ve learned how to test ideas and usability to reduce the amount of software your team needs to build and to focus its execution. Now you’re going to learn how high-functioning teams approach testing of the software itself. The practice of continuous delivery and the closely related Devops movement are changing the way we build and release software. It wasn’t that long ago where 2-3 releases a year was considered standard. Now, Amazon, for example, releases code every 11.6 seconds. This week, we’ll look at the delivery pipeline and step through what successful practitioners do at each stage and how you can diagnose and apply the practices that will improve your implementation of agile._"
+
+### Week 4: Identifying & Structuring a Functional Hypothesis
+
+__The Team that Releases Together__   
 0:00 - 0:17
-As we get into this week, there are two concepts I want to introduce that are really central to this practice of testing your functional hypotheses as you go. One is a continuous delivery pipeline and the other is this practice of DevOps, which is a Domain Specific extension of Agile.
-Continuous Delivery Pipeline: 
+- _As we get into this week, there are two concepts I want to introduce that are really central to this practice of testing your functional hypotheses as you go. One is a continuous delivery pipeline and the other is this practice of DevOps, which is a Domain Specific extension of Agile._
+- Continuous Delivery Pipeline:   
 Input: New Code 
 1. Commit & Small (Unit) Tests 
 2. Medium (Integration) Tests 
@@ -503,211 +507,209 @@ Input: New Code
 Output: Released Product
 
 
-The Team that Releases Together
+__The Team that Releases Together__   
 1:30 - 1:58
-The other concept is DevOps. Whereas Agile is this thing that deals with the business people, the product managers, and the development team as a general entity. DevOps is a Domain Specific extension of Agile that deals with the relationship between those two folks, but also in particular the relationship between developers, testers, and operations or systems folks. Let's look at what that means in a little bit more detail.
-•	In the old world, we had silos consisting of Development, Test and Operations. The inputs to the developer were user stories, wireframes, or, in the very old world, requirements. The Development output is software that Dev says is ready to be deployed. They pass this over to the tester. Test provides working software, some documentation notes on how it's supposed to work. The Test output is given to the ops people. Ops packages and releases the software and provides support for it. 
-•	DevOps restructures the relationship between DEV, Test and Ops' teams so they are more integrated in their work. 
-•	Some DevOps Themes: Test Driven Development Automated Testing Automation Scripts for software upgrades.
+- _The other concept is DevOps. Whereas Agile is this thing that deals with the business people, the product managers, and the development team as a general entity. DevOps is a Domain Specific extension of Agile that deals with the relationship between those two folks, but also in particular the relationship between developers, testers, and operations or systems folks. Let's look at what that means in a little bit more detail._
+- _In the old world, we had silos consisting of Development, Test and Operations. The inputs to the developer were user stories, wireframes, or, in the very old world, requirements. The Development output is software that Dev says is ready to be deployed. They pass this over to the tester. Test provides working software, some documentation notes on how it's supposed to work. The Test output is given to the ops people. Ops packages and releases the software and provides support for it._ 
+- DevOps restructures the relationship between DEV, Test and Ops' teams so they are more integrated in their work. 
+-	Some DevOps Themes: Test Driven Development, Automated Testing, Automation Scripts for software upgrades.
 
 
-Getting Started with Continuous Delivery
+__Getting Started with Continuous Delivery__    
 0:00 - 0:05
-Now, how do you get started with continuous delivery? It could be daunting.
-•	Gather DEV, Ops, and Test teams along with the product owner, and other members of the Agile team. 
-•	With full team, diagram your process. Sometimes it is easier to work backwards starting with the product release and documenting the antecedents of each step. 
-•	Once you have a documented process, develop a hit list of process improvements - e.g., manual processes in testing and release. 
-•	Consider continuous integration / Continuous delivery platform, like Jenkins, to centralize and automate releases.
+- _Now, how do you get started with continuous delivery? It could be daunting._
+- Gather DEV, Ops, and Test teams along with the product owner, and other members of the Agile team. 
+- With full team, diagram your process. Sometimes it is easier to work backwards starting with the product release and documenting the antecedents of each step. 
+- Once you have a documented process, develop a hit list of process improvements - e.g., manual processes in testing and release. 
+-	Consider continuous integration / Continuous delivery platform, like Jenkins, to centralize and automate releases.
 
 
-Anders Wallgren on Getting Started
+__Anders Wallgren on Getting Started__    
 0:11 - 0:23
-Let's talk about getting started with continuous delivery. What is literally is the very first thing you would recommend an organization does, if they want to invest in this generally?
-•	Document the end to end process from code commit to end user software delivery. 
-•	Document manual steps, automated steps, approvals, and where the process is simple, and where it is complex. 
-•	Document process pain points where errors frequently occur or time to execute is long, and look here first for process improvements.
+- _Let's talk about getting started with continuous delivery. What is literally is the very first thing you would recommend an organization does, if they want to invest in this generally?_
+-	Document the end to end process from code commit to end user software delivery. 
+-	Document manual steps, automated steps, approvals, and where the process is simple, and where it is complex. 
+-	Document process pain points where errors frequently occur or time to execute is long, and look here first for process improvements.
 
 
-Anders Wallgren on Getting Started
+__Anders Wallgren on Getting Started__    
 1:34 - 1:45
-How do you figure out where to start investing time, infrastructure changes, process improvements, whatever is going to work?
+- _How do you figure out where to start investing time, infrastructure changes, process improvements, whatever is going to work?_
 
 
-The Test Pyramid
+### Week 4: What kind of tests can I run?
+
+__The Test Pyramid__    
 0:10 - 0:27
-Let's talk a little bit about the type of tests and how many of you want and why. Well, generally, the test quantities are framed in this pyramid, or I guess ziggurats, and these are steps in this case. So you have a lot of these unit or small tests that test an individual piece of code.
-•	Test Pyramid - Large amount of unit tests. Lesser amount of integration tests, and even fewer system tests. 
-•	Unit Tests - Test individual pieces of code e.g., a function or method that strips the domain from a user email. 
-o	Cost - least expensive. 
-o	Speed - fast to develop and implement. 
-o	Isolation - high degree of isolation because if the test fails then it is the fault of the individual code. 
-o	Usually created by the developer as a necessity.
-•	Integration test - Tests the specific interaction between two components of a system. 
-o	Cost - more than unit. 
-o	Speed - slower than unit. 
-o	Isolation - less than unit. 
-o	Less likely to find someone to write an integration test. 
-•	System Test - Tests the entire system from the user perspective. 
-o	Usually developed by dedicated test resource using a software test package. Prone to false results that can swamp developers. 
-o	Cost - most. 
-o	Isolation - least (could be a false result, and if valid then hard to isolate. 
-o	Speed - slowest.
+- _Let's talk a little bit about the type of tests and how many of you want and why. Well, generally, the test quantities are framed in this pyramid, or I guess ziggurats, and these are steps in this case. So you have a lot of these unit or small tests that test an individual piece of code._
+- Test Pyramid - Large amount of unit tests. Lesser amount of integration tests, and even fewer system tests. 
+- Unit Tests - Test individual pieces of code e.g., a function or method that strips the domain from a user email. 
+    - Cost - least expensive. 
+    - Speed - fast to develop and implement. 
+    - Isolation - high degree of isolation because if the test fails then it is the fault of the individual code. 
+    - Usually created by the developer as a necessity.
+- Integration test - Tests the specific interaction between two components of a system. 
+   - Cost - more than unit. 
+   - Speed - slower than unit. 
+   - Isolation - less than unit. 
+   - Less likely to find someone to write an integration test. 
+- System Test - Tests the entire system from the user perspective. 
+   - Usually developed by dedicated test resource using a software test package. Prone to false results that can swamp developers. 
+   - Cost - most. 
+   - Isolation - least (could be a false result, and if valid then hard to isolate. 
+   - Speed - slowest.
 
 
-The Commit & Small Tests Stage
+__The Commit & Small Tests Stage__    
 0:00 - 0:07
-Let's talk about the small tests and commit phase here in a little bit more detail.
-•	Commit phase - New code comes out of version control and is committed, and built in whatever way it needs to be to be executed, and then unit tests are run. 
-•	The code goes into an artifact repository so that the build will be available to the downstream tests. 
-•	Unit tests don't touch anything and run in memory separately. 
-•	When developers write unit tests, they create test doubles (AKA dummy, stub, spy, mocks) to give their code something to interact with in place of users. Doubles simulate the input and interactions that these functions would normally have with users. 
-•	Test-driven development is the default position for a lot of modern development and most teams, but there is a lot of work involved in creating doubles and writing unit tests. There is some debate about whether it's really worthwhile to perform unit testing under certain circumstances.
+- _Let's talk about the small tests and commit phase here in a little bit more detail._
+- Commit phase - New code comes out of version control and is committed, and built in whatever way it needs to be to be executed, and then unit tests are run. 
+-	The code goes into an artifact repository so that the build will be available to the downstream tests. 
+-	Unit tests don't touch anything and run in memory separately. 
+-	When developers write unit tests, they create test doubles (AKA dummy, stub, spy, mocks) to give their code something to interact with in place of users. Doubles simulate the input and interactions that these functions would normally have with users. 
+-	Test-driven development is the default position for a lot of modern development and most teams, but there is a lot of work involved in creating doubles and writing unit tests. There is some debate about whether it's really worthwhile to perform unit testing under certain circumstances.
 
 
-The Commit & Small Tests Stage
+__The Commit & Small Tests Stage__      
 0:35 - 0:42
-So they really don't touch anything, they run in memory as their own little atomic thing and that may seem a little bit weird.
-See slide.
+- _So they really don't touch anything, they run in memory as their own little atomic thing and that may seem a little bit weird.
+See slide._
 
 
-The Job of Version Control
+__The Job of Version Control__    
 0:00 - 0:04
-Let's talk about Version Control a little bit.
-•	Version Control - Agreed upon process and policy to ensure that all team members can access a recent working copy of software (or document) that receives and incorporates everybody's changes while allowing individuals to freely make changes on their own without breaking the software. 
-•	Trunk - the main version of the software that is periodically updated. 
-•	Branch - The work/additions/changes of individual contributors. Team members will want to make changes by taking their own copy of the trunk, and making modifications to it. 
-•	Merge - Committing branch modification back to the main version of software (or document). The footprint of unmerged code should be minimized in continuous delivery. 
-•	Teams may manage their trunks and branches differently, but it is crucial that everyone on the team understands the version control policy.
+- _Let's talk about Version Control a little bit._
+-	Version Control - Agreed upon process and policy to ensure that all team members can access a recent working copy of software (or document) that receives and incorporates everybody's changes while allowing individuals to freely make changes on their own without breaking the software. 
+-	Trunk - the main version of the software that is periodically updated. 
+-	Branch - The work/additions/changes of individual contributors. Team members will want to make changes by taking their own copy of the trunk, and making modifications to it. 
+-	Merge - Committing branch modification back to the main version of software (or document). The footprint of unmerged code should be minimized in continuous delivery. 
+-	Teams may manage their trunks and branches differently, but it is crucial that everyone on the team understands the version control policy.
 
 
-Medium Tests
+__Medium Tests__    
 0:01 - 0:06
-Let's talk a little bit more about this medium test age here.
-Integration tests include other system components, like the operating system and other adjacent pieces of code and subsystems, but not external systems and not the network.
+- _Let's talk a little bit more about this medium test age here._
+- Integration tests include other system components, like the operating system and other adjacent pieces of code and subsystems, but not external systems and not the network.
 
 
-Medium Tests
+__Medium Tests__    
 0:25 - 0:30
-it seems like if we're not used to just a small difference between here to here, why don't we just sort of run them as all one thing?
-Three main reasons that integration testing is separate from system testing: 
+- _it seems like if we're not used to just a small difference between here to here, why don't we just sort of run them as all one thing?_
+- Three main reasons that integration testing is separate from system testing: 
 1. Speed: for the developer, it's important integration tests run quickly, rather than executing full system tests which would require more of their time. 
 2. Problem isolation: if a piece of code passes the unit test and then fails the integration test, this will help isolate the problem. It will be isolated to an interaction with, for example, the file system, or the database. This will be helpful for tracking on a problem and getting it fixed in minimum time. 
 3. Organization: integration testing helps to organize software updates to have some meaningful distinctions for housekeeping purposes. It creates rules that if a given part of the system changes, then it is agreed that these people responsible for other system components should help with updating this part of the test regime.
 
 
-Large Tests
+__Large Tests__   
 3:02 - 3:14
-Let's talk about this large test type. So this is again, this big catch-all for everything, and it's okay that these run a little longer, we don't want them to be any longer than they have to be.
-You may still need a stub service to simulate the interaction with some external systems, especially if those external systems are hard to access, do not welcome test transactions, slow, unpredictable, under-development themselves, or not well-documented
+- _Let's talk about this large test type. So this is again, this big catch-all for everything, and it's okay that these run a little longer, we don't want them to be any longer than they have to be._
+- You may still need a stub service to simulate the interaction with some external systems, especially if those external systems are hard to access, do not welcome test transactions, slow, unpredictable, under-development themselves, or not well-documented
 
 
-Large Tests
+__Large Tests__   
 0:00 - 0:05
-Let's talk about these large or system tests in a little more detail.
-System Testing includes the following test types/facets: 
-•	Functional tests: testing how the overall system works with less focus on underlying components. 
-•	Non-functional tests: Performance, capacity, and security testing. These are usually run in a separate environment that looks like production, and is well-controlled. 
-•	Acceptance test - validate that the software conforms to the user stories in a way that works for the systems team and is acceptable to release the customers.
+- _Let's talk about these large or system tests in a little more detail._
+- System Testing includes the following test types/facets: 
+  -	Functional tests: testing how the overall system works with less focus on underlying components. 
+  -	Non-functional tests: Performance, capacity, and security testing. These are usually run in a separate environment that looks like production, and is well-controlled. 
+  -	Acceptance test - validate that the software conforms to the user stories in a way that works for the systems team and is acceptable to release the customers.
 
 
-Anders Wallgren on Functional Testing
+__Anders Wallgren on Functional Testing__   
 0:14 - 0:23
-Before we do that, let's talk about behavior-driven development a little bit. Can you give us your layman's view of what it is and why it might be important?
-Behavior-driven development - main goal is to allow non-programmers to specify the behaviors of the system, in a way that can then be automatically tested. It is part of the kind of test-first culture in some. It allows you to specify very ornate behaviors of the system and requires project managers and product managers to think in terms of, how do I express this for testability?
+- _Before we do that, let's talk about behavior-driven development a little bit. Can you give us your layman's view of what it is and why it might be important?_
+- Behavior-driven development - main goal is to allow non-programmers to specify the behaviors of the system, in a way that can then be automatically tested. It is part of the kind of test-first culture in some. It allows you to specify very ornate behaviors of the system and requires project managers and product managers to think in terms of, "how do I express this for testability?"
 
 
-Release Stage
+__Release Stage__   
 0:01 - 0:05
-Let's talk about this release or deploy stage.
-Release stage: Builds are coming from the artifact repository to ensure that it matches what passed through the prior validation phases, and the configuration is drawn from version control. 
-•	Using configurations from version control facilitates the practice of continuous delivery by allowing for standardization and automation. 
-•	The builds from the artifact repository (presumably) have been through all of the testing steps and should be used during release to for more predictable behavior. 
+- _Let's talk about this release or deploy stage._
+- Release stage: Builds are coming from the artifact repository to ensure that it matches what passed through the prior validation phases, and the configuration is drawn from version control. 
+  =	Using configurations from version control facilitates the practice of continuous delivery by allowing for standardization and automation. 
+  -	The builds from the artifact repository (presumably) have been through all of the testing steps and should be used during release to for more predictable behavior. 
+- Take time to manage changes in a way that is consistent with the continuous delivery process. Production issues often arise when configurations are changed manually during production. Teams should go back to make sure they have a systematic understanding of problems and try to stick to systematic changes consistent with the overall continuous delivery pipeline.
 
-Take time to manage changes in a way that is consistent with the continuous delivery process. Production issues often arise when configurations are changed manually during production. Teams should go back to make sure they have a systematic understanding of problems and try to stick to systematic changes consistent with the overall continuous delivery pipeline.
 
-
-Release Stage
+__Release Stage__   
 1:12 - 1:26
-it's really important that both the process in the environments that you're using look like the same environments you were using throughout the rest of the pipeline here.
-Its less important to replicate hardware between the production and test environments, and more important that the application configuration and digital layer match between environments.
+- _it's really important that both the process in the environments that you're using look like the same environments you were using throughout the rest of the pipeline here._
+- Its less important to replicate hardware between the production and test environments, and more important that the application configuration and digital layer match between environments.
 
 
-Release Stage
+__Release Stage__   
 1:59 - 2:05
-Another really important thing, early capability to focus on is the ability to roll back for obvious reasons.
-•	Canary releasing - a process to deploy new software at first to a subset of users and you validate it's working okay. 
-•	Blue green release - pattern where you have two parallel environments running, the blue and the green and routing controls which is production. For example, if blue is active, you deploy to the green environment and you make sure everything is okay in real life, with blue as your rollback. And then you change the routing to go to green, making it the live prod environment instead of blue. Blue is where you will deploy the next release.
+- _Another really important thing, early capability to focus on is the ability to roll back for obvious reasons._
+-	Canary releasing - a process to deploy new software at first to a subset of users and you validate it's working okay. 
+-	Blue green release - pattern where you have two parallel environments running, the blue and the green and routing controls which is production. For example, if blue is active, you deploy to the green environment and you make sure everything is okay in real life, with blue as your rollback. And then you change the routing to go to green, making it the live prod environment instead of blue. Blue is where you will deploy the next release.
 
 
-The Job of Deploying
+__The Job of Deploying__    
 4:25 - 4:46
-Kubernetes can do stuff like, one data center goes down that had five of these little pick another good choice of a datacenter and automatically spin those up, rather than panic and calls and overhead and who can install that? And do they have access to that datacenter? And where do we put these and all those terrible things that used to happen before we have Container Orchestration.
-•	Container Orchestration - tools, like Kubernetes, that can automatically create or bring down environments based on events. For example, if an app needs 10 instances in PAC region, and a data center goes down, Kubernetes can find an appropriate data center and create the needed instances in it. 
-•	Feature flags - allow you to place new code into a system, but "flag" it off in the configuration. You can turn it on for a subset of users, and roll back or more widely release if it is stable and is having the desired effect on user behavior.
+- _Kubernetes can do stuff like, one data center goes down that had five of these little pick another good choice of a datacenter and automatically spin those up, rather than panic and calls and overhead and who can install that? And do they have access to that datacenter? And where do we put these and all those terrible things that used to happen before we have Container Orchestration._
+-	Container Orchestration - tools, like Kubernetes, that can automatically create or bring down environments based on events. For example, if an app needs 10 instances in PAC region, and a data center goes down, Kubernetes can find an appropriate data center and create the needed instances in it. 
+-	Feature flags - allow you to place new code into a system, but "flag" it off in the configuration. You can turn it on for a subset of users, and roll back or more widely release if it is stable and is having the desired effect on user behavior.
 
 
-The Job of Deploying
+__The Job of Deploying__
 6:37 - 6:54
-So that is how the teams are using new tools, new practices, and new ways of working together to do well on the Java conduce delivery and increase the frequency of their releases.
+- _So that is how the teams are using new tools, new practices, and new ways of working together to do well on the Java conduce delivery and increase the frequency of their releases.__    
 Infrastructure as Code tools: 
-•	Configuration management tools - automate and standardize the upgrade process or installing new instances, e.g., Puppet and Chef, instead of writing out a list of instructions that a human has to read and follow. Using tools like Chef, developers, testers, and operations will collaborate on an upgrade and install code. 
-•	Containers - Containers, like Docker, abstract away an individual unit of your application from the underlying physical host and operating system so that it can run on a developer's laptop, a test system, or a production system in essentially the same way. A container decouples an application and its behavior from the underlying hardware and operating system. So, all the elements/stuff that's going to have the variation is placed into this container so that that's more consistent across those different environments.
+-	Configuration management tools - automate and standardize the upgrade process or installing new instances, e.g., Puppet and Chef, instead of writing out a list of instructions that a human has to read and follow. Using tools like Chef, developers, testers, and operations will collaborate on an upgrade and install code. 
+-	Containers - Containers, like Docker, abstract away an individual unit of your application from the underlying physical host and operating system so that it can run on a developer's laptop, a test system, or a production system in essentially the same way. A container decouples an application and its behavior from the underlying hardware and operating system. So, all the elements/stuff that's going to have the variation is placed into this container so that that's more consistent across those different environments.
 
 
 
-Anders Wallgren on Deployment
+__Anders Wallgren on Deployment__   
 1:32 - 1:43
-Yeah, I mean, I think the same kind of reason why continuous integration is very valuable to teams' continuous delivery in all the disciplines that you have to build around it can be very valuable too.
-Continuous Delivery gives you very rapid feedback on the outcome and quality of the work that you just did and so you get it when the work is fresh in your mind, not 90 days later. Also, the longer you go between when problem is introduced to when you discover it, the more expensive it is to mitigate. Finally, continuous delivery makes teams look at how bugs can be discovered earlier in the test and release process.
+- _Yeah, I mean, I think the same kind of reason why continuous integration is very valuable to teams' continuous delivery in all the disciplines that you have to build around it can be very valuable too._
+- Continuous Delivery gives you very rapid feedback on the outcome and quality of the work that you just did and so you get it when the work is fresh in your mind, not 90 days later. Also, the longer you go between when problem is introduced to when you discover it, the more expensive it is to mitigate. Finally, continuous delivery makes teams look at how bugs can be discovered earlier in the test and release process.
 
 
-Chris Kent on Continuous Deployment
+__Chris Kent on Continuous Deployment__   
 3:53 - 5:14
-We're using a tool called Cucumber, and that is a tool that allows you to write your acceptance tests in plain language, and then have a developer and sometimes partner with a tester to do translate that plain language into executable code effectively. The beauty behind this, in ideal world, what you have is, you have three people sitting down together to define your acceptance criteria. You've got the business stakeholder, and ideally they're the ones writing that plain language, you've got a tester and you got a developer. Those three people hash it out and they figure out, okay, here's the plain language that describes what we're going to do, here are the scenarios that describe the inputs and outputs for this feature that we're working on. Given that the developer and sometimes the tester can go off and actually implement those scenarios. But what do you end up with is a suite of tests that you can hand to non-technical folks, you can hand it to your manager and they can look as a, okay, this is what our application does and it's what you end up with is considered to be a living documentation system.
+- _We're using a tool called Cucumber, and that is a tool that allows you to write your acceptance tests in plain language, and then have a developer and sometimes partner with a tester to do translate that plain language into executable code effectively. The beauty behind this, in ideal world, what you have is, you have three people sitting down together to define your acceptance criteria. You've got the business stakeholder, and ideally they're the ones writing that plain language, you've got a tester and you got a developer. Those three people hash it out and they figure out, okay, here's the plain language that describes what we're going to do, here are the scenarios that describe the inputs and outputs for this feature that we're working on. Given that the developer and sometimes the tester can go off and actually implement those scenarios. But what do you end up with is a suite of tests that you can hand to non-technical folks, you can hand it to your manager and they can look as a, okay, this is what our application does and it's what you end up with is considered to be a living documentation system._
 
 
-Chris Kent on Continuous Deployment
+__Chris Kent on Continuous Deployment__   
 6:24 - 7:38
-we would sit down right there at the beginning of the sprint and say, all right, which of these stories has user facing impact? Which ones would they actually notice a change? For any of those stories that had a noticeable change, we gave it what we call The Scarlet Letter, so with big red marker, and we wrote an A on the ticket with a big circle around it and that to us meant it had to go through our acceptance test-driven development process, which meant that we would have that meeting with the test engineer, developer and whoever we could drag in to be a business stakeholder to define out those tests and from there, one or two things would happen, either the test would be written before the development efforts started, that's the ideal, or at the very least they'd be written in parallel with the development effort. So now not only do we have documentation in the form of tests, we also have a definition of done for the work that's being done, the coding that the developer has to do, as soon as that is acceptance tests passed, assuming you've done your due diligence in defining what scenarios are, as soon as that passes, your work is done, your feature is complete.
+- _we would sit down right there at the beginning of the sprint and say, all right, which of these stories has user facing impact? Which ones would they actually notice a change? For any of those stories that had a noticeable change, we gave it what we call The Scarlet Letter, so with big red marker, and we wrote an A on the ticket with a big circle around it and that to us meant it had to go through our acceptance test-driven development process, which meant that we would have that meeting with the test engineer, developer and whoever we could drag in to be a business stakeholder to define out those tests and from there, one or two things would happen, either the test would be written before the development efforts started, that's the ideal, or at the very least they'd be written in parallel with the development effort. So now not only do we have documentation in the form of tests, we also have a definition of done for the work that's being done, the coding that the developer has to do, as soon as that is acceptance tests passed, assuming you've done your due diligence in defining what scenarios are, as soon as that passes, your work is done, your feature is complete._
 
 
-Test-Driven General Management
+__Test-Driven General Management__    
 0:01 - 0:18
-Let's talk about what it means to be test driven in our general practices, the general management of our team. I would say some of the highlights are that you're consistently holding retrospectives where you think about how things are going, what you want to change, what you want to keep the same.
-A 1-2 hour retrospective for a two-week sprint, is approximately appropriate. 
-
-Create a simple agile team charter that provides basic explanations of your agile practice implementation. See a template and some examples in the lesson resource material. 
-
-The charter will contain: 
--	Problem focus: personas & problem scenarios 
--	Team roles - e.g., the product owner, scrum master, Agile coach, and other roles you've delineated. 
--	Method parameters - e.g., retrospectives, 1 week or 2 week sprints. 
--	Team tools (e.g. Trello, agile central) 
--	Conventions and practices - Key processes used and why - whether for Agile or for software development. E.g., code reviews, tests. 
--	Log - key decisions (on how to get better)
+- _Let's talk about what it means to be test driven in our general practices, the general management of our team. I would say some of the highlights are that you're consistently holding retrospectives where you think about how things are going, what you want to change, what you want to keep the same._
+- A 1-2 hour retrospective for a two-week sprint, is approximately appropriate. 
+- Create a simple agile team charter that provides basic explanations of your agile practice implementation. See a template and some examples in the lesson resource material. 
+- The charter will contain: 
+  -	Problem focus: personas & problem scenarios 
+  -	Team roles - e.g., the product owner, scrum master, Agile coach, and other roles you've delineated. 
+  -	Method parameters - e.g., retrospectives, 1 week or 2 week sprints. 
+  -	Team tools (e.g. Trello, agile central) 
+  -	Conventions and practices - Key processes used and why - whether for Agile or for software development. E.g., code reviews, tests. 
+  -	Log - key decisions (on how to get better)
 
 
-Test-Driven General Management
+__Test-Driven General Management__    
 3:06 - 3:25
-another really critical part of probably the most important thing in beyond the sort of basic practices we've talked about is to hold these retrospectives. It's hard to be test driven if you don't look at results and really think about them and talk about them with your team in a substantial way
-Retrospective: 
--	Should be one hour (minimum) for a 2-week sprint. 
--	Scrum Master/Agile Coach should prepare an agenda: how does team feel the project is going, what is on their a-list, what are the hardest things to do. 
--	If you are running experiments in Lean Start-up, it is critical to look at experiment results and ask why
+- _another really critical part of probably the most important thing in beyond the sort of basic practices we've talked about is to hold these retrospectives. It's hard to be test driven if you don't look at results and really think about them and talk about them with your team in a substantial way_
+- Retrospective: 
+  -	Should be one hour (minimum) for a 2-week sprint. 
+  -	Scrum Master/Agile Coach should prepare an agenda: how does team feel the project is going, what is on their a-list, what are the hardest things to do. 
+  -	If you are running experiments in Lean Start-up, it is critical to look at experiment results and ask why
 
 
-Narrative and the 'Happy Path'
+__Narrative and the 'Happy Path'__    
 0:00 - 0:04
-Let's talk a little bit about how you focus your testing.
-Do not try to test every conceivable thing that all the available functions in the target area could do - you will probably not complete that testing. Instead focus on the happy path. 
+- _Let's talk a little bit about how you focus your testing.
+Do not try to test every conceivable thing that all the available functions in the target area could do - you will probably not complete that testing. Instead focus on the happy path._
+-	Exploratory testing - explore, learn and test based on input from the product owner, the "Story Map", or from observing users. 
+-	A critical contrast between agile and legacy methods is the difference between trying to arbitrarily test every single thing that the system can do, and iteratively working towards understanding the happy paths that users will take through the application.
 
-•	Exploratory testing - explore, learn and test based on input from the product owner, the "Story Map", or from observing users. 
-•	A critical contrast between agile and legacy methods is the difference between trying to arbitrarily test every single thing that the system can do, and iteratively working towards understanding the happy paths that users will take through the application.
 
-
-Narrative and the 'Happy Path'
+__Narrative and the 'Happy Path'__    
 2:24 - 2:42
-There's this idea of a use case and quite a lot in the last year, I've heard people use this in a casual way just to mean that, I think, something that the user might do, which is okay. Words are words. There is actually a clinical definition of this use case, and this has the principal elements of it.
+- _There's this idea of a use case and quite a lot in the last year, I've heard people use this in a casual way just to mean that, I think, something that the user might do, which is okay. Words are words. There is actually a clinical definition of this use case, and this has the principal elements of it._   
 Use case includes: 
 -	Title: Primary Actor 
 -	Goal in Context 
@@ -722,9 +724,9 @@ Use case includes:
 -	Technology and Data Variations List
 
 
-The Emergence of DevOps and the Ascent of Continuous Delivery
+__The Emergence of DevOps and the Ascent of Continuous Delivery__   
 1:09 - 1:20
-in devops, we have an overall movement towards converging these things in terms of roles, so people doing multiple parts of this at the same time.
+- _in devops, we have an overall movement towards converging these things in terms of roles, so people doing multiple parts of this at the same time._    
 Developers and testers work together to explore: 
 -	What is the narrative that we're getting into the system? 
 -	What are the things that we're learning about? 
@@ -733,29 +735,29 @@ Developers and testers work together to explore:
 Developers and Testers are very focused on encapsulating all this learning into automated test suites, so that they can improve their practice of continuous delivery.
 
 
-The Emergence of DevOps and the Ascent of Continuous Delivery
+__The Emergence of DevOps and the Ascent of Continuous Delivery__   
 2:17 - 2:18
-What about operations?
+- _What about operations?_    
 Ops has to keep the infrastructure secure, and scalable, and up and running, and figure out how to do that better and better. In a devops environment, ops is actively collaborating with the development and the test teams to: 
--	operationalize the software, based on what's changing and what they're learning. 
+-	Operationalize the software, based on what's changing and what they're learning. 
 -	Build self-service infrastructure using tools like Puppet and Chef and participating in the continuous delivery pipeline that we talked about.
 
 
-Design for Deployability
+__Design for Deployability__    
 0:00 - 0:23
-Let's talk a little bit about the relationship between product design and deployability, the ability to continuously deploy our software successfully. One of the things that can really interfere with that process is having a lot of different configuration parameters, especially configuration parameters that affect things system-wide.
-Different configuration parameters, especially those that affect things system-wide, create drag and interfere with continuous delivery. Products will get into a situation where they don't know if they should go left or go right. So they make it configurable. Good decision or a bad decision, this can really create a huge drag on your ability to successfully test the system variation in a meaningful way. So one of the things that you should always be thinking about is making sure that you really understand what's valuable to your user.
+- _Let's talk a little bit about the relationship between product design and deployability, the ability to continuously deploy our software successfully. One of the things that can really interfere with that process is having a lot of different configuration parameters, especially configuration parameters that affect things system-wide._
+- Different configuration parameters, especially those that affect things system-wide, create drag and interfere with continuous delivery. Products will get into a situation where they don't know if they should go left or go right. So they make it configurable. Good decision or a bad decision, this can really create a huge drag on your ability to successfully test the system variation in a meaningful way. So one of the things that you should always be thinking about is making sure that you really understand what's valuable to your user.
 
 
-Anders Wallgren on Continuous Deployment
+__Anders Wallgren on Continuous Deployment__    
 0:21 - 0:31
-What does the team or the individual that's trying to change the way that their team works, what do they get from a successful implementation of a continuous delivery capability?
-Continuous delivery focuses the team on reducing cycle time. The team nails down the process from commit to delivery, and notes what is done by people and what is done by computers. Continuous delivery teams are aware of where value is created in the process, and looks for improvements there. Where value is not being created, those steps are eliminated, made optional, or ran in parallel to something else. Automation is leveraged to enable process optimization.
+- _What does the team or the individual that's trying to change the way that their team works, what do they get from a successful implementation of a continuous delivery capability?_
+- Continuous delivery focuses the team on reducing cycle time. The team nails down the process from commit to delivery, and notes what is done by people and what is done by computers. Continuous delivery teams are aware of where value is created in the process, and looks for improvements there. Where value is not being created, those steps are eliminated, made optional, or ran in parallel to something else. Automation is leveraged to enable process optimization.
 
 
-Using "Day in the Life" to Drive Empathy
+__Using "Day in the Life" to Drive Empathy__    
 0:16 - 0:36
-Now, I mentioned I would talk more about Day in the Life, so I'm going to show you an example of that. Day in the Life is a game you play with a bunch of collaborators to help bring a persona to life. And the way it works is I'm going to show you a series of photos about a persona and now I'm going to ask you a bunch of questions about them.
-"Day in the Life" enables teams to humanize and get to know the user persona. This knowledge helps teams make better decisions and deliver a more valuable product.
-![image](https://user-images.githubusercontent.com/81437067/154099454-f99c3f35-41d9-4e61-a8c9-5adb6f8b15c7.png)
+- _Now, I mentioned I would talk more about Day in the Life, so I'm going to show you an example of that. Day in the Life is a game you play with a bunch of collaborators to help bring a persona to life. And the way it works is I'm going to show you a series of photos about a persona and now I'm going to ask you a bunch of questions about them._
+- "Day in the Life" enables teams to humanize and get to know the user persona. This knowledge helps teams make better decisions and deliver a more valuable product.
+
 
