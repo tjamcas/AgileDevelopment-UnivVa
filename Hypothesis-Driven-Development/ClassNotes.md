@@ -14,7 +14,7 @@ __The Persona Hypothesis__
 __The Problem/JTBD Hypothesis__    
 0:01 - 0:06
 - _Let's talk about the problem or job to be done hypothesis._
-- Overview/Recap Problem / Jobs to be Done (JTBD) - an underlying need of the persona - i.e., durable problem, job, habit, desire that exists out there that we've observed. It is de-coupled from our proposition (proposed solution) because the problem/JBTD is extremely durable but the solution may change. The JTBD is found by interviews and his done in conjunction with the interviews for defining the persona.    
+- Overview/Recap Problem / Jobs to be Done (JTBD) - an underlying need of the persona - i.e., durable problem, job, habit, desire that exists out there that we've observed. It is de-coupled from our proposition (proposed solution) because the problem/JBTD is extremely durable but the solution may change. The JTBD is found by interviews and is done in conjunction with the interviews for defining the persona.    
 
 
 __The Demand/Value Hypothesis__    
@@ -63,7 +63,7 @@ __Conducting the Interview__
 2. Interview guide. Do you have an interview guide? 
 3. Intro script. Do you have an introduction script that describes how you're interested in what they do? Do not introduce what you plan to build. Do not assume that they are familiar with being an interview subject. You can tell them generally what you're up to, but don't give them specifics. Instead, tell them that you'd like to hear about who they are, how they do things, or what their concerns may be. 
 4. Paperwork. Do you have any required releases? How will you take notes during the interview? 
-5. Day in the Life. Do you intend to follow up with them in a Day in the life exercise?
+5. Day in the Life. Do you intend to follow up with them in a Day in the Life exercise?
 
 
 __Conducting the Interview__  
@@ -98,7 +98,7 @@ __Overview of the Persona and Problem Sprint__
 __How Do I Sell the Idea of a Design Sprint__   
 0:01 - 0:04
 - _How do you get permission to do this? How do you get everybody bought in?_
-1. Don't make a big deal about it - i.e., don't say that we are making a major change in what we and how we do it. 
+1. Don't make a big deal about it - i.e., don't say that we are making a major change in what we do and how we do it. 
 2. Think about about what you stakeholders care about and are motivated by - may be excited to get a couple days out of the office and into a change of routine. 
 3. Make sure you get buy-in if you plan to observe staff. Tell them you are there to learn about how they do things right now, so that you can do your work for them better. 
 4. Re-name it if "design sprint" isn't getting the right reaction - try calling it a lean research sprint. 
@@ -107,7 +107,7 @@ __How Do I Sell the Idea of a Design Sprint__
 
 
 
-## Week 2 - How do we reduce waste & create wins by testing our propopsitions before we build them?
+## Week 2 - How do we reduce waste & create wins by testing our propositions before we build them?
 "_Nothing will help a team deliver better outcomes like making sure they’re building something the user values. This might sound simple or obvious, but I think after this week it’s likely you’ll find opportunities to help improve your team’s focus by testing ideas more definitively before you invest in developing software. In this module, you’ll learn how to make concept testing an integral part of your product pipeline. We’ll continue to apply methods from Lean Startup, looking at how they pair with agile. We’ll look at how high-functioning teams design and run situation-appropriate experiments to test ideas, and how that works before the fact (when you’re testing an idea) and after the fact (when you’re testing the value of software you’ve released)._"
 
 ### Week 2: Identifying & Testing a Demand Hypothesis
@@ -116,7 +116,7 @@ __Creating More Wins__
 0:01 - 0:06
 - _This week, we're going to look at how you define a value hypothesis._
 - A Demand/Value Hypothesis should include: 
-  - Problem Scenario about which people are. actually concerned, 
+  - Problem Scenario about which people are actually concerned, 
   - A Clear Alternative that is currently used and learned through interviews or work environment observation, 
   - A Value Proposition identifying something better than the alternative.
 
@@ -158,7 +158,7 @@ __Focusing Your Ideas__
 - _one thing I find is usually helpful is having teams storyboard the process of how does a perspective user, persona, who you're going to deliver this value hypothesis to against these jobs to be done. How do they go from, not even knowing that your proposition or product exists to happy user where everything you want to have help him with the customer relationship has happened? What has to happen in between those things?_
 - The storyboard should walk through the following stages of engagement: 
   - Attention: how do we get our target persona's attention directed toward our product? 
-  - Interest: How do get our persona further engaged by being interested in our product? 
+  - Interest: How do we get our persona further engaged by being interested in our product? 
   - Desire: This will come from knowing our persona and the tension between their jobs to be done and their current alternative(s). 
   - Action: What is the next step that the persona must take before using the product. 
   - Onboarding: getting the customer onto our proposition, and using it successfully. 
@@ -171,7 +171,7 @@ __Focusing Your Ideas__
 - There are three engines of growth that you should think about and document in your final storyboard panel for retention: 
 1. Paid: transactional. Persona/user pays for product. 
 2. Viral: word of mouth. Persona/user tells others about their great experience with the product. 
-Sticky: Customers come back to the product because they had a great experience.
+3. Sticky: Customers come back to the product because they had a great experience.
 
 
 __Focusing Your Ideas__   
